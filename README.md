@@ -4,11 +4,11 @@ Welcome to my first mobile responsive, web development portfolio!
 Here, I will walk you through the different functions and pages of the website.  Although there isn't much to see yet, I can assure you more exciting things are to come!
 
 ## Contents of the Page
-[About Me](##about-me)
+[About Me](#about-me)
 
-[Portfolio](##portfolio)
+[Portfolio](#portfolio)
 
-[Contact](##contact)
+[Contact](#contact)
 
 
 ## About Me
