@@ -1,9 +1,13 @@
+/* Gives the body its styling and background image */
+
 body {
     font-family: 'Maven Pro', sans-serif;
     background-image: url(../images/white-triangle-369b8d2d.jpg);
     background-size: cover;
     background-color: #eee;
 }
+
+/* Adjusting styling and typescript for navbar and footer */
 
 .navbar-text {
     font-size: 20px;
@@ -13,6 +17,13 @@ body {
     font-weight: bold;
 }
 
+.copyright {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Spacing and sizing for font awesome graphics */
+
 .fab {
     margin-left: 10px;
 }
@@ -20,6 +31,8 @@ body {
 .fas, .far {
     font-size: 50px;
 }
+
+/* Primary container styling used on all three pages of website */
 
 .container {
     width: 60%;
@@ -32,6 +45,8 @@ body {
     border-radius: 10px;
     border: 1px solid black;
 }
+
+/* Styling/borders/margins for main content of each container, accounting for grid design of bootstrap */
 
 #marathon {
     border: 1px solid grey;
@@ -57,11 +72,6 @@ body {
 
 .btn {
     margin-bottom: 10px;
-}
-
-.copyright {
-    font-size: 14px;
-    font-weight: bold;
 }
 
 /* Eliminates page margins and adjusts container width when navigating mobile devices */
