@@ -15,6 +15,8 @@ Here, I will walk you through the different functions and pages of the website. 
 
 [Credits and Code Used](#credits-and-code-used)
 
+[Project Takeaways](#project-takeaways)
+
 ## General Info
 This portfolio is designed to operate across multiple different device types (mobile/desktop/tablet).  Using Bootstrap's CSS library along with standard semantic HTML, I was able to style and structure the site using the Bootstrap grid system.  
 
@@ -32,14 +34,23 @@ On this page, you will find some general background information about me includi
 ## Portfolio
 This page is most definitely a work in process.  Come back in a few months, and there will be much more to share with you!
 
+I plan to post my different projects on this page.  We are currently working on becoming Jedis of JavaScript.  Should be a lot of fun things happening here in the future. 
+
 ![About](/assets/images/portfolio.JPG)
 
 ## Contact
 Interested in getting in touch with me?  Shoot me a message and I will respond ASAP!
 
+Email is great, but feel free to send me your phone number, as well.
+
 ![Contact](/assets/images/Contact.JPG)
 
 ## Credits and Code Used
 HTML/CSS
+
 Bootstrap CSS Library
+
 Background Image - coolbackgrounds.io - Check it out [here!](https://coolbackgrounds.io/)
+
+## Project Takeaways
+
