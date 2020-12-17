@@ -5,8 +5,11 @@ Here, I will walk you through the different functions and pages of the website. 
 
 ## Contents of the Page
 [About Me](##about-me)
+
 [Portfolio](##portfolio)
+
 [Contact](##contact)
+
 
 ## About Me
 
