@@ -1,6 +1,7 @@
 body {
     font-family: 'Maven Pro', sans-serif;
-    background: url(/assets/images/palm-leaf.png);
+    background-image: url(../images/white-triangle-369b8d2d.jpg);
+    background-size: cover;
     background-color: #eee;
 }
 
@@ -21,33 +22,55 @@ body {
 }
 
 .container {
-    width: 50%;
+    width: 60%;
+    margin-left: 80px;
+    margin: 3%;
     margin-top: 100px;
-    margin-left: 80px; 
     margin-bottom: 140px;
-    padding: 10px;
-    background-color: white;
+    background-color: rgb(48, 47, 47);
+    color: white;
     border-radius: 10px;
     border: 1px solid black;
 }
 
 #marathon {
     border: 1px solid grey;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+
+.about-text {
+    text-indent: 2em;
 }
 
 .row {
     margin: 10px;
-    padding: 20px;
     border-bottom: 4px solid grey;
-    font-weight: bold;
     font-size: 18px;
 }
 
-.col-md-3 {
-    margin-bottom: 5px;
+.img-thumbnail {
+    margin: 10px;
+}
+
+.btn {
+    margin-bottom: 10px;
 }
 
 .copyright {
     font-size: 14px;
     font-weight: bold;
+}
+
+/* Eliminates page margins and adjusts container width when navigating mobile devices */
+
+@media only screen and (max-width: 500px) {
+    .container {
+        width: 100%;
+        margin-top: 100px;
+        margin-bottom: 140px;
+        margin-left: 0px;
+    }
 }
