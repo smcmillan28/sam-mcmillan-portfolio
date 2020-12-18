@@ -51,4 +51,6 @@ Among the takeaways and things learned from this project, this portfolio was the
 
 I used one media query as a way to keep formatting/spacing and margins for medium and large sized screens.  When viewing on smaller devices like cellphones, you will see margins eliminated along with a streamlined page structure.  See below:
 
+![Mobile](/assets/images/mobile-aboutme.JPG)
+
 This assignment stretched my abilities regarding web design.  I can't wait to add some real projects to the portfolio section!
