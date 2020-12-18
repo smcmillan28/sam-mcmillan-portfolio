@@ -42,8 +42,13 @@ Email is great, but feel free to send me your phone number, as well.
 
 ## Credits and Code Used
 HTML/CSS\
+Font Awesome\
 Bootstrap CSS Library\
 Background Image - coolbackgrounds.io - Check it out [here!](https://coolbackgrounds.io/)
 
 ## Project Takeaways
+Among the takeaways and things learned from this project, this portfolio was the first webpage I built that included more than one page of HTML.  Using Bootstrap for the first time, I was able to get a taste of its capabilities when it comes to dynamic styling, page structure, and mobile responsiveness.  The row/column formatting is intuitive and allows the developer to cleanly organize each section of the page.  
 
+I used one media query as a way to keep formatting/spacing and margins for medium and large sized screens.  When viewing on smaller devices like cellphones, you will see margins eliminated along with a streamlined page structure.  See below:
+
+This assignment stretched my abilities regarding web design.  I can't wait to add some real projects to the portfolio section!
