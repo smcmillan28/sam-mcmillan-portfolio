@@ -5,16 +5,11 @@ Here, I will walk you through the different functions and pages of the website. 
 
 ## Table of Contents
 
-[General Info](#general-info)
-
-[About Me](#about-me)
-
-[Portfolio](#portfolio)
-
-[Contact](#contact)
-
-[Credits and Code Used](#credits-and-code-used)
-
+[General Info](#general-info)\
+[About Me](#about-me)\
+[Portfolio](#portfolio)\
+[Contact](#contact)\
+[Credits and Code Used](#credits-and-code-used)\
 [Project Takeaways](#project-takeaways)
 
 ## General Info
@@ -46,10 +41,8 @@ Email is great, but feel free to send me your phone number, as well.
 ![Contact](/assets/images/Contact.JPG)
 
 ## Credits and Code Used
-HTML/CSS
-
-Bootstrap CSS Library
-
+HTML/CSS\
+Bootstrap CSS Library\
 Background Image - coolbackgrounds.io - Check it out [here!](https://coolbackgrounds.io/)
 
 ## Project Takeaways
