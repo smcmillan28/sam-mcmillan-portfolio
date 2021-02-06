@@ -68,6 +68,7 @@ body {
 
 .img-thumbnail {
     margin: 10px;
+    width: 50%;
 }
 
 .btn {
