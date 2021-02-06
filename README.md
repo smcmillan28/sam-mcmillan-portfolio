@@ -27,9 +27,7 @@ On this page, you will find some general background information about me includi
 ![About](/assets/images/about-snip.JPG)
 
 ## Portfolio
-This page is most definitely a work in process.  Come back in a few months, and there will be much more to share with you!
-
-I plan to post my different projects on this page.  We are currently working on becoming Jedis of JavaScript.  Should be a lot of fun things happening here in the future. 
+Feel free to browse this page and explore different projects and assignments that I've completed. 
 
 ![About](/assets/images/portfolio.JPG)
 
