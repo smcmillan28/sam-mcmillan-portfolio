@@ -1,7 +1,7 @@
 # Sam McMillan's Web Development Portfolio  
-Welcome to my first mobile responsive, web development portfolio!  
+Welcome to my mobile responsive, web development portfolio!  
 
-Here, I will walk you through the different functions and pages of the website.  Although there isn't much to see yet, I can assure you more exciting things are to come!
+Here, I will walk you through the different functions and pages of the website. Feel free to check it out [here!](https://smcmillan28.github.io/sam-mcmillan-portfolio/)
 
 ## Table of Contents
 
