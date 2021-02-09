@@ -17,15 +17,17 @@ body {
     font-weight: bold;
 }
 
-.copyright {
+/* .copyright {
+    margin-top: 20px;
     font-size: 14px;
     font-weight: bold;
-}
+} */
 
 /* Spacing and sizing for font awesome graphics */
 
 .fab {
     margin-left: 10px;
+    font-size: 16px;
 }
 
 .fas, .far {
@@ -44,6 +46,11 @@ body {
     color: white;
     border-radius: 10px;
     border: 1px solid black;
+}
+
+.fixed-bottom {
+    height: 8%;
+    align-content: center;
 }
 
 /* Styling/borders/margins for main content of each container, accounting for grid design of bootstrap */
