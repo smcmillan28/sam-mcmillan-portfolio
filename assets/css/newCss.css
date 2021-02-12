@@ -3,9 +3,12 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
-.portfolio-card {
-    display: inline-block;
-    width: 30%;
+.project-title {
+    margin-top: 50px;
+}
+
+.portfolio-desc {
+    margin-bottom: 50px;;
 }
 
 .intro, .portfolio {
@@ -30,13 +33,23 @@ body {
     background-color: lightgoldenrodyellow;
 }
 
+.navbar-item {
+    text-align: center;
+}
+
 .contact, .intro, .portfolio {
+    text-align: center;
+    padding: 20px;
+}
+
+.adventures {
+    margin: 0 auto;
     text-align: center;
 }
 
 #rotator {
-    width: 50%;
-    height: 60%;
+    width: 80%;
+    height: 90%;
     border-radius: 10px;
 }
 
