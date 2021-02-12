@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(#7fda84, #7680eb);
+}
+
+.portfolio-card {
+    display: inline-block;
+    width: 30%;
+}
+
+.intro, .portfolio {
+    margin: 20px;
+}
+
+.fab {
+    color: black;
+    margin: 10px;
+}
+
+.top {
+    margin: 0 auto;
+}
+
+.is-child {
+    background-color: lightgoldenrodyellow;
+}
+
+.navbar {
+    background-color: lightgoldenrodyellow;
+}
+
+.contact, .intro, .portfolio {
+    text-align: center;
+}
