@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(#7fda84, #7680eb);
+    background: linear-gradient(#7fda84, #f55d21);
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 .portfolio-card {
@@ -13,7 +14,8 @@ body {
 
 .fab {
     color: black;
-    margin: 10px;
+    margin: 15px;
+    font-size: 22px;
 }
 
 .top {
@@ -30,4 +32,8 @@ body {
 
 .contact, .intro, .portfolio {
     text-align: center;
+}
+
+.bottom {
+    background-color: lightgoldenrodyellow;
 }
